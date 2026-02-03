@@ -258,7 +258,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align:center;'>
-    **Maintainer:** Himanshu Jadhav — Second-Year Engineering Student (AI & Data Science)  
+    Maintainer: Himanshu Jadhav — Second-Year Engineering Student (AI & Data Science)  
 
     Connect: [GitHub](https://github.com/himanshu-jadhav108) • [LinkedIn](https://www.linkedin.com/in/himanshu-jadhav-328082339) • [Instagram](https://www.instagram.com/himanshu_jadhav_108) • [Portfolio](https://himanshu-jadhav-portfolio.vercel.app/)
     </div>
